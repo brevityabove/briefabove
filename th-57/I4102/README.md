@@ -1,5 +1,4 @@
-# I4102 Brief
-[I4102](I4102.md)
+# [I4102 Brief](I4102.md)
 
 Please contribute. If you find any errors, make an account and raise an
 [issue][1]. Better yet, you can [edit the I4102.md document][2] yourself and
